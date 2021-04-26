@@ -1,0 +1,7 @@
+2,057,500 people aged 15-64 with disability
+├── In the labour force (53.4%)
+│   ├── Employed (47.8%)
+│   │   ├── Working full-time (28.3%)
+│   │   └── Working part-time (19.6%)
+│   └── Unemployed (5.5%)
+└── Not in the labour force (46.6%)
